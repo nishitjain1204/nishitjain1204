@@ -2,7 +2,7 @@
 
 ### Hi there 👋 
 
-I'm **Nishit Jain**, striving to become a strong developer and moving deep dive into the world of **Web Development**. 
+I'm **Nishit Jain**, striving to become a strong Python developer and making a deep dive into the world of **Web Development**. 
 
 - 🔭 I’m currently working on **Automated Society Security System**
 - 🌱 I’m currently learning **Django**
