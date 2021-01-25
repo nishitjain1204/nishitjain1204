@@ -18,7 +18,7 @@ I'm **Nishit Jain**, striving to become a strong Python developer and making a d
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhackademiq.hussiancollege.edu%2Fwp-content%2Fuploads%2F2017%2F08%2Fflask_logo1.png&f=1&nofb=1" alt="drawing" width="60"/>       <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fjohn-bagiliko.github.io%2Fimages%2Flogos%2Fdjango.png&f=1&nofb=1" alt="drawing" width="60"/>
 
 [![Nishit's github stats](https://github-readme-stats.vercel.app/api?username=coldkillerr&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coldkillerr&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
