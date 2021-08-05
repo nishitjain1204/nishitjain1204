@@ -6,12 +6,13 @@ I'm **Nishit Jain**, striving to become a strong Python developer and making a d
 
 - 🔭 I’m currently working on **Automated Society Security System**
 - 🌱 I’m currently learning **React**
-- 💬 Ask me about **Python** , **CP** and **Marvel**.
+- 💬 Ask me about **Python** , **Linux** , and **Marvel**.
 - ⚡ Fun fact: Sounds stupid, but I can crack jokes on myself. And :pizza: doesn't come under the category of Junk Food.
 
 ### Languages:
 
 ![PythonIcon](https://img.icons8.com/color/48/000000/python.png) 
+![JSIcon](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpluspng.com%2Fimg-png%2Fjavascript-vector-png-javascript-vector-logo-600.png&f=1&nofb=1)
 
 ### Frameworks
 
