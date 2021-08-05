@@ -5,7 +5,7 @@
 I'm **Nishit Jain**, striving to become a strong Python developer and making a deep dive into the world of **Web Development**. 
 
 - 🔭 I’m currently working on **Automated Society Security System**
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **React**
 - 💬 Ask me about **Python** , **CP** and **Marvel**.
 - ⚡ Fun fact: Sounds stupid, but I can crack jokes on myself. And :pizza: doesn't come under the category of Junk Food.
 
