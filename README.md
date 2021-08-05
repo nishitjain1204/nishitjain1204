@@ -12,7 +12,7 @@ I'm **Nishit Jain**, striving to become a strong Python developer and making a d
 ### Languages:
 
 ![PythonIcon](https://img.icons8.com/color/48/000000/python.png) 
-![JSIcon](https://img.icons8.com/color/48/000000/js.png)
+![JSIcon](https://img.icons8.com/color/48/000000/javascript.png)
 
 ### Frameworks
 
