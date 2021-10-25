@@ -4,7 +4,7 @@
 
 I'm **Nishit Jain**, striving to become a strong **Developer** and making a deep dive into the world of **Web Development**. 
 
-- 🔭 I’m currently working on **Automated Society Security System**
+- 🔭 I’m currently working on **Farmer's Assistant**
 - 🌱 I’m currently learning **React**
 - 💬 Ask me about **Python** , **Linux** , and **Marvel**.
 - ⚡ Fun fact: Sounds stupid, but I can crack jokes on myself. And :pizza: doesn't come under the category of Junk Food.
