@@ -2,10 +2,10 @@
 
 ### Hi there 👋 
 
-I'm **Nishit Jain**, striving to become a strong **Developer** and making a deep dive into the world of **Web Development**. 
+I'm **Nishit Jain**, striving to become a strong **Developer** and making a deep dive into the world of **Development**. 
 
 - 🔭 I’m currently working on **Farmer's Assistant**
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Docker** and **AWS**
 - 💬 Ask me about **Python** , **Linux** , and **Marvel**.
 - ⚡ Fun fact: Sounds stupid, but I can crack jokes on myself. And :pizza: doesn't come under the category of Junk Food.
 
