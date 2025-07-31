@@ -16,6 +16,7 @@ I'm **Nishit Jain**, striving to become a strong **Developer** and making a deep
 
 ### Frameworks
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fjohn-bagiliko.github.io%2Fimages%2Flogos%2Fdjango.png&f=1&nofb=1" alt="drawing" width="60"/>     
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fjohn-bagiliko.github.io%2Fimages%2Flogos%2Fdjango.png&f=1&nofb=1" alt="django" width="60"/>  
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmD38KsMgEwahtWc_Nfs5ZVktP9dBc36MUZA&s" alt="flask" width="60"/>  
 
 
