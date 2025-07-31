@@ -1,22 +1,47 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishitjain1204&label=Profile%20views&color=0989aa&style=flat-square" alt="nishitjain1204" /> </p>
+# 👋 Hi, I'm Nishit Jain!
 
-### Hi there 👋 
+I'm a **Backend Developer** with a strong foundation in designing scalable systems, optimizing workflows, and enabling seamless third-party integrations. Currently at [Fynd (Shopsense Retail Technologies)](https://www.gofynd.com/), I work on high-impact retail tech solutions for **Reliance Retail**, where speed, scale, and resilience are everything.
 
-I'm **Nishit Jain**, striving to become a strong **Developer** and making a deep dive into the world of **Development**. 
+---
 
-- 🔭 I’m currently working on **Farmer's Assistant**
-- 🌱 I’m currently learning **Docker** and **AWS**
-- 💬 Ask me about **Python** , **Linux** , and **Marvel**.
-- ⚡ Fun fact: Sounds stupid, but I can crack jokes on myself. And :pizza: doesn't come under the category of Junk Food.
+## 💼 Experience
 
-### Languages:
+### 🚀 Software Development Engineer @ Fynd | *May 2024 – Present*
+- Architected stateless, decoupled middleware for external service orchestration using **Temporal** and **Kafka**.
+- Enabled real-time syncing between internal systems and 3rd-party platforms, supporting **10M+ monthly requests**.
+- Built a modular delivery partner integration platform powering **20+ courier partnerships**, with automated **AWB**, **e-way bill**, and **label generation**.
+- Designed cache-aside strategies and idempotent APIs to handle **100K+ logistics events/month**.
 
-![PythonIcon](https://img.icons8.com/color/48/000000/python.png) 
-![JSIcon](https://img.icons8.com/color/48/000000/javascript.png)
+### 🔧 Backend Developer @ HappyFox Technologies | *Sep 2023 – Apr 2024*
+- Focused on building robust and maintainable backend code using Python and best practices.
 
-### Frameworks
+### 💳 Software Developer @ GrayQuest | *May 2022 – Sep 2023*
+- Led the creation of **Auto-Debit** (SaaS subscription model), improving customer retention by 30%.
+- Developed **Lender Connect**, an automated loan disbursement system cutting processing time by 70%.
+- Built customizable **Payment Pages** with support for Auto Debit, Direct Payments, and EMI.
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fjohn-bagiliko.github.io%2Fimages%2Flogos%2Fdjango.png&f=1&nofb=1" alt="django" width="60"/>  
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmD38KsMgEwahtWc_Nfs5ZVktP9dBc36MUZA&s" alt="flask" width="60"/>  
+---
+
+## 🛠️ Tech Stack
+
+- **Languages**: Python  
+- **Frameworks**: Django, Flask, FastApi, Sanic
+- **Databases**: PostgreSQL, MySQL  
+- **Architecture**: Kafka , Temporal
+
+---
+
+## 🎓 Education
+
+**B.E. in Information Technology**  
+Datta Meghe College of Engineering, Airoli  
+CGPA: 7.7/10 | July 2018 – July 2022
+
+---
+
+## 📫 Let's Connect!
+
+- 📧 [nishitjain120420011@gmail.com](mailto:nishitjain120420011@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/nishit-jain1)
 
 
