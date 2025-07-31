@@ -18,8 +18,4 @@ I'm **Nishit Jain**, striving to become a strong **Developer** and making a deep
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fjohn-bagiliko.github.io%2Fimages%2Flogos%2Fdjango.png&f=1&nofb=1" alt="drawing" width="60"/>     
 
-[![Nishit's github stats](https://github-readme-stats.vercel.app/api?username=nishitjain1204&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishitjain1204&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
