@@ -6,16 +6,16 @@ I'm a **Backend Developer** with a strong foundation in designing scalable syste
 
 ## 💼 Experience
 
-### 🚀 Software Development Engineer @ Fynd | *May 2024 – Present*
+### Software Development Engineer @ Fynd | *May 2024 – Present*
 - Architected stateless, decoupled middleware for external service orchestration using **Temporal** and **Kafka**.
 - Enabled real-time syncing between internal systems and 3rd-party platforms, supporting **10M+ monthly requests**.
 - Built a modular delivery partner integration platform powering **20+ courier partnerships**, with automated **AWB**, **e-way bill**, and **label generation**.
 - Designed cache-aside strategies and idempotent APIs to handle **100K+ logistics events/month**.
 
-### 🔧 Backend Developer @ HappyFox Technologies | *Sep 2023 – Apr 2024*
+### Backend Developer @ HappyFox Technologies | *Sep 2023 – Apr 2024*
 - Focused on building robust and maintainable backend code using Python and best practices.
 
-### 💳 Software Developer @ GrayQuest | *May 2022 – Sep 2023*
+### Software Developer @ GrayQuest | *May 2022 – Sep 2023*
 - Led the creation of **Auto-Debit** (SaaS subscription model), improving customer retention by 30%.
 - Developed **Lender Connect**, an automated loan disbursement system cutting processing time by 70%.
 - Built customizable **Payment Pages** with support for Auto Debit, Direct Payments, and EMI.
