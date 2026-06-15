@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Nishit Jain!
 
-I'm a **Backend Developer** with a strong foundation in designing scalable systems, optimizing workflows, and enabling seamless third-party integrations. Currently at [Fynd (Shopsense Retail Technologies)](https://www.gofynd.com/), I work on high-impact retail tech solutions for **Reliance Retail**, where speed, scale, and resilience are everything.
+I'm a **Senior Software Engineer** with a strong foundation in designing scalable systems, optimizing workflows, and enabling seamless third-party integrations. Currently at Solytics Partners , I work on high-impact Fintech solutions where speed, scale, and resilience are everything.
 
 ---
 
 ## 💼 Experience
 
-### Software Development Engineer @ Fynd | *May 2024 – Present*
+### Software Development Engineer @ Fynd | *May 2024 – March 2027*
 - Architected stateless, decoupled middleware for external service orchestration using **Temporal** and **Kafka**.
 - Enabled real-time syncing between internal systems and 3rd-party platforms, supporting **10M+ monthly requests**.
 - Built a modular delivery partner integration platform powering **20+ courier partnerships**, with automated **AWB**, **e-way bill**, and **label generation**.
